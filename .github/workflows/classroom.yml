@@ -19,7 +19,7 @@ jobs:
       with:
         test-name: Test Case 1
         setup-command: ''
-        command: python3 triangle_area
+        command: python3 triangle_area.py
         input: |-
           1
           1
