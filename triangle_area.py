@@ -7,6 +7,8 @@
 def main():
     findArea()
 
+
+
 def findArea():
     height = int(input('Enter the height: '))
     base = int(input('Enter the base: '))
